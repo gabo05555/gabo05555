@@ -14,35 +14,29 @@
 - 📫 Reach me at **GaboBuenaventura2003@gmail.com**  
 - 🎸 Fun fact: **I play guitar in my free time!**
 
----
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #9f5afd, #d67bff); box-shadow: 0 0 10px #c084fc;">
 
 ### 🌐 Connect with me:
 <p align="left">
   <a href="https://instagram.com/gabby_gabbbo" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" />
   </a>
-   <a href="https://www.facebook.com/gab.navarro.980" target="_blank">
+  <a href="https://www.facebook.com/gab.navarro.980" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-
   <a href="https://www.linkedin.com/in/john-gabriel-buenaventura-655641370/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
   </a>
 </p>
 
----
-
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #9f5afd, #d67bff); box-shadow: 0 0 10px #c084fc;">
 
 ### 🛠️ Languages and Tools:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,java,figma,vscode,vite,mysql,git,qt,python,numpy,pandas" />
 </p>
 
-
-
----
-
----
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #9f5afd, #d67bff); box-shadow: 0 0 10px #c084fc;">
 
 ### 📊 GitHub Stats
 
@@ -53,4 +47,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabo05555&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
