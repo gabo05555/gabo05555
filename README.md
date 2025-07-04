@@ -28,9 +28,11 @@
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #9f5afd, #d67bff); box-shadow: 0 0 10px #c084fc;">
 
+
 ### 🛠️ Languages and Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,next,java,figma,notion,vscode,idea,vite,mysql,supabase,git,qt,python,numpy,pandas" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,next,java,figma,notion" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,vite,mysql,supabase,git,qt,python,numpy,pandas" />
 </p>
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #9f5afd, #d67bff); box-shadow: 0 0 10px #c084fc;">
