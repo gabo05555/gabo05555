@@ -36,12 +36,16 @@
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #9f5afd, #d67bff); box-shadow: 0 0 10px #c084fc;">
 
-### 📊 GitHub Stats
+### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabo05555&show_icons=true&theme=radical&count_private=true&cache_seconds=30" alt="Gab's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabo05555&theme=radical&fire=9f5afd&ring=d67bff&currStreakLabel=c084fc" alt="GitHub Streak" />
 </p>
 
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #9f5afd, #d67bff); box-shadow: 0 0 10px #c084fc;">
+
+### 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabo05555&layout=compact&theme=radical&cache_seconds=30" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gabo05555&theme=radical&margin-w=10&row=1&no-frame=true" alt="GitHub Trophies" />
 </p>
