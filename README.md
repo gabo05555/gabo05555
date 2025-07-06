@@ -28,7 +28,6 @@
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #9f5afd, #d67bff); box-shadow: 0 0 10px #c084fc;">
 
-
 ### 🛠️ Languages and Tools:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,next,java,figma,notion" /><br>
@@ -40,9 +39,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabo05555&show_icons=true&theme=radical" alt="Gab's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabo05555&show_icons=true&theme=radical&count_private=true&cache_seconds=30" alt="Gab's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabo05555&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabo05555&layout=compact&theme=radical&cache_seconds=30" alt="Top Languages" />
 </p>
