@@ -44,8 +44,10 @@
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #9f5afd, #d67bff); box-shadow: 0 0 10px #c084fc;">
 
-### 🏆 GitHub Trophies
+### 🌟 Dev Vibes
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gabo05555&theme=radical&margin-w=10&row=1&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/Frontend%20Lover-%239f5afd?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20Stylist-%23d67bff?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to%20collab-%23c084fc?style=for-the-badge&logo=github&logoColor=white" />
 </p>
