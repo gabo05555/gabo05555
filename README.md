@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **ReactJS**  
 - 💬 Ask me about **Data Analytics**  
 - 📫 Reach me at **GaboBuenaventura2003@gmail.com**  
-- 🎸 Fun fact: **I play guitar in my free time!**
+
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #9f5afd, #d67bff); box-shadow: 0 0 10px #c084fc;">
 
