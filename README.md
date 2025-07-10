@@ -39,7 +39,7 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabo05555&theme=radical&fire=9f5afd&ring=d67bff&currStreakLabel=c084fc" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=gabo05555&theme=radical&fire=9f5afd&ring=d67bff&currStreakLabel=c084fc" alt="GitHub Streak" />
 </p>
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #9f5afd, #d67bff); box-shadow: 0 0 10px #c084fc;">
