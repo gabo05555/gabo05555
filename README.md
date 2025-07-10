@@ -5,6 +5,22 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #9f5afd, #d67bff); box-shadow: 0 0 10px #c084fc;">
+
+### 🌐 Check Out My Portfolio
+
+<p align="center">
+  <a href="https://react-portfolio-henna-pi.vercel.app" target="_blank" style="text-decoration: none;">
+    <b>🔗 https://react-portfolio-henna-pi.vercel.app</b>
+  </a>
+</p>
+
+<p align="center">
+  Built with <strong>React</strong>, styled with <strong>Tailwind CSS</strong>, and deployed via <strong>Vercel</strong>.  
+  Designed to showcase my projects, skills, and passion for front-end development.
+</p>
+
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=gabo05555&label=Profile%20views&color=0e75b6&style=flat" alt="gabo05555" /> 
 </p>
